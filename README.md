@@ -1,2 +1,2 @@
 # Docker-Tutorial-Homework
-For this homework, you need to complete the Docker Getting Started guide sections 1,2, and 3 found here (Links to an external site.).  Please also read sections 4,5, and 6 to complete your basic knowledge of Docker.    To submit this assignment, create a GitHub repository and make a commit for each section that you complete.   When you are finished submit a link to your repository on Github here. 
+For this homework, you need to complete the Docker Getting Started guide sections 1,2, and 3 found here (Links to an external site.).  Please also read sections 4,5, and 6 to complete your basic knowledge of Docker.
